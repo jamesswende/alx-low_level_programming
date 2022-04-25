@@ -1,1 +1,1 @@
-my first README of the week
+my c readme
