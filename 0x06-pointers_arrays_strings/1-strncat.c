@@ -26,5 +26,3 @@ char *_strncat(char *dest, char *src, int n)
 	dest[length] = '\0';
 	return (dest);
 }
-© 2022 GitHub, Inc.
-Terms
